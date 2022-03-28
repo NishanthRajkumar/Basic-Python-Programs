@@ -25,4 +25,4 @@ def get_cpu_count():
 
 if __name__ == '__main__':
     logging.basicConfig(handlers=[logging.FileHandler(r"basic_programs.log"), logging.StreamHandler(sys.stdout)], level=logging.INFO)
-    get_cpu_count(r'get_doc.py')
+    get_cpu_count()
