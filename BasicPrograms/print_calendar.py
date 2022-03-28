@@ -3,7 +3,7 @@
     @Date: 28-03-2022 17:00:00
     @Last Modified by: Nishanth
     @Last Modified time: 28-03-2022 17:00:00
-    @Title: prints calendar for given month and year
+    @Title: Print calendar given month and year
 '''
 from calendar import Calendar
 import logging
