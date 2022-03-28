@@ -1,3 +1,10 @@
+'''
+    @Author: Nishanth
+    @Date: 28-03-2022 17:00:00
+    @Last Modified by: Nishanth
+    @Last Modified time: 28-03-2022 17:00:00
+    @Title: Generate a list and a tuple using comma separated numbers
+'''
 import logging
 import sys
 
